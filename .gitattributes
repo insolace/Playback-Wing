@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.plc linguist-detectable=false
+*.pls linguist-detectable=false
