@@ -1,5 +1,5 @@
 # Playback-Wing
-Conceived by Survivor Sound (http://www.survivorsound.com/)
+Concept by Survivor Sound (http://www.survivorsound.com/)
 
 Proof of concept prototype developed by Eric Bateman in 2018
 
