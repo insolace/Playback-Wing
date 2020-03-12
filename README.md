@@ -3,12 +3,12 @@ Concept by Survivor Sound (http://www.survivorsound.com/)
 
 Proof of concept prototype developed by Eric Bateman in 2018
 
-![](IMG/Collage-MED.jpg)
+![](https://github.com/insolace/Playback-Wing/raw/master/IMG/Collage-MED.jpg)
 
-[![MIDI Demo Video](IMG/PBW1.png)](https://www.youtube.com/watch?v=q78MsimvOyE)<br>
+[![MIDI Demo Video](https://github.com/insolace/Playback-Wing/raw/master/IMG/PBW1.png)](https://www.youtube.com/watch?v=q78MsimvOyE)<br>
 MIDI DEMO VIDEO (with cat at the end)
 
-[![LCD Demo Video](IMG/PBW2.png)](https://www.youtube.com/watch?v=Xt8juDtmMBs)<br>
+[![LCD Demo Video](https://github.com/insolace/Playback-Wing/raw/master/IMG/PBW2.png)](https://www.youtube.com/watch?v=Xt8juDtmMBs)<br>
 LCD DEMO VIDEO
 
 Playback Wing is a portable MIDI powered lighting controller with LCD, meant for use with GrandMA lighting consoles.  
